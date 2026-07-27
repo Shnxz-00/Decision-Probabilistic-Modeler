@@ -1,0 +1,6 @@
+{
+  "name": "Decision Probabilistic Modeler",
+  "description": "An advanced decision-making app that uses probabilistic modeling, expected value calculation, and Monte Carlo simulations to help users weigh complex life choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
